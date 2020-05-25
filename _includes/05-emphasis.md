@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_Man coding is __hard__ to learn_ I thin it gonna take ___a lot___ of work.
